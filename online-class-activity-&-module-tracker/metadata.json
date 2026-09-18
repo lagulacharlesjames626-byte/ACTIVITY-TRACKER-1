@@ -1,0 +1,8 @@
+{
+  "name": "Online Class Activity & Module Tracker",
+  "description": "Student activity tracker and module checklist with real-time live synchronization, classmate editing indicators, automatic due date ordering, and quick name-based login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
